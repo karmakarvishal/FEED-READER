@@ -1,9 +1,20 @@
-Testing using Jasmine
-A Udacity FEND project
 
-This project demonstrates browser based testing using Jasmine.
+Feed Reader Testing Project
 
-Steps to run
-Open index.html in the browser of your choice. It may take some time to completely load as additional network requests are made. Once loaded, test results should be displayed at the bottom of the page.
+Testing the Feed Reader app using Javascript testing framework Jasmine.
+Reference
 
-The online version can be seen at http://aviaryan.github.io/ud-feed-reader-testing/
+    2.1 Jasmine documentation
+
+How to run this test
+
+    Simply visit here, I publicly hosted this test.
+
+How to run the this locally
+
+Option-1 - Simple:
+
+    Click "Clone in Desktop" / "Download ZIP"
+    Open the folder
+    Open index.html on your preferred browser
+    There should be several test results at the bottom of the screen that says "~ specs, ~ failures"
